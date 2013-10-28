@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: logikalone1
+Build-Jdk: 1.8.0-ea
+Main-Class: javaeetutorial.retailer.Retailer
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: logikalone1
+Build-Jdk: 1.8.0-ea
+Class-Path: roster-common-7.0.3.jar
+Main-Class: javaeetutorial.roster.client.RosterClient
+Created-By: Maven Integration for Eclipse
+

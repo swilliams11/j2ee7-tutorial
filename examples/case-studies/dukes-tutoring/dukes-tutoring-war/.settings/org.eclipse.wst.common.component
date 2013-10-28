@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="dukes-tutoring-war">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="dukes-tutoring-common-7.0.3.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/dukes-tutoring-common/dukes-tutoring-common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="dukes-tutoring-war"/>
+        <property name="java-output-path" value="/dukes-tutoring-war/target/classes"/>
+    </wb-module>
+</project-modules>
